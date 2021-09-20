@@ -1,0 +1,1 @@
+This is a Code Refactor project.  In the HTML I've replaced the non-semantic elements with semantic ones and included accessibility comments on the exisiting images. 
